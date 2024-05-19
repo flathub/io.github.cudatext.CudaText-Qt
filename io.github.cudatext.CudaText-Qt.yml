@@ -120,8 +120,8 @@ modules:
         sha256: 0f354a80a51e39df3b9245e1c31f6b033b4df72e527f79ddb0aeeeb1f1f36cbf
         dest: src/ATFlatControls
       - type: archive
-        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2024.05.03.tar.gz
-        sha256: 40fa696aabf73ea561b7e3a8b783c87a4e35a601f35cae71edbbda90c7c9a4e0
+        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2024.05.19.tar.gz
+        sha256: 9fb6da72cbdae28c098839dd831a6e8cc22870cbdf127259523d7b80cd24e4ba
         dest: src/ATSynEdit
       - type: archive
         url: https://github.com/Alexey-T/ATSynEdit_Cmp/archive/refs/tags/2024.04.02.tar.gz
@@ -144,8 +144,8 @@ modules:
         sha256: 9f8967e651253fc7027e8bef4115a45e9fb3b1c85536d1bd390da9c4d8a2efe0
         dest: src/Emmet-Pascal
       - type: archive
-        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.214.5.tar.gz
-        sha256: b374bfd74ebcd2f102e72be2b621b2ae1791f8ec76716dc34191928908b5bb14
+        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.214.6.tar.gz
+        sha256: b83a6e0ca2e628a601c49e918356020f7ec3e0cbd7cd17932aab418646e46bf6
         dest: src/CudaText
       - type: file
         path: io.github.cudatext.CudaText-Qt.appdata.xml
