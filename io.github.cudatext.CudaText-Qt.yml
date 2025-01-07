@@ -95,11 +95,13 @@ modules:
 
   - name: qt6pas
     sources:
-      - type: shell
-        commands:
-          - cp -r ${LAZARUSDIR}/lcl/interfaces/qt6/cbindings/. .
-          - sed -e"s/target.path = .\+/target.path = '\/app\/lib'/" -i ./Qt6Pas.pro
+      - type: archive
+        url: https://github.com/davidbannon/libqt6pas/archive/refs/tags/v6.2.10.tar.gz
+        sha256: dbcc13559f991958fb69de31d67c85575bbe278fdff0813b51787da50720d591
     buildsystem: qmake
+    subdir: cbindings
+    build-commands:
+      - sed -e"s/target.path = .\+/target.path = '\/app\/lib'/" -i ./Qt6Pas.pro
 
   - name: cudatext
     sources:
