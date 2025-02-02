@@ -122,16 +122,16 @@ modules:
         sha256: 0c484fc44ff8d8ac7de8d34e5a3712e725a455ef310dc45a6628538e4f4df43e
         dest: src/ATFlatControls
       - type: archive
-        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2025.01.12.tar.gz
-        sha256: abceb050b2e1bce32a160dc317fcd31cebfa5b08f6ae5e1057db095e2947943a
+        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2025.01.28.tar.gz
+        sha256: 702c7c051ba8ec3352af9a06c1bb5a6ef42b87f3e22e1a0e21fb4997bf9e17b3
         dest: src/ATSynEdit
       - type: archive
-        url: https://github.com/Alexey-T/ATSynEdit_Cmp/archive/refs/tags/2024.07.28.tar.gz
-        sha256: 57c1289cb897d6f23ac74d8fd5354c98cd2c64ad327a34feec9ab85058dfe127
+        url: https://github.com/Alexey-T/ATSynEdit_Cmp/archive/refs/tags/2025.01.31.tar.gz
+        sha256: 83c0ba9e4d771d363ab7c1cfae7aab924cf2a5bc95719a5b493cdd5be20c9c56
         dest: src/ATSynEdit_Cmp
       - type: archive
-        url: https://github.com/Alexey-T/EControl/archive/refs/tags/2025.01.11.tar.gz
-        sha256: f06d64df4b975e7db4e7c1998c533b37b2ec658827183d79743aeded894e4910
+        url: https://github.com/Alexey-T/EControl/archive/refs/tags/2025.01.28.tar.gz
+        sha256: b9f24d5bc5ddc928b4569fd8bcca166eb5aacb1a588ce5526d77f2af4d7102d0
         dest: src/EControl
       - type: archive
         url: https://github.com/Alexey-T/ATSynEdit_Ex/archive/refs/tags/2024.10.26.tar.gz
@@ -146,8 +146,8 @@ modules:
         sha256: 9f8967e651253fc7027e8bef4115a45e9fb3b1c85536d1bd390da9c4d8a2efe0
         dest: src/Emmet-Pascal
       - type: archive
-        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.220.6.1.tar.gz
-        sha256: a04e8b5e84eee4d004f41dc4a94c3963a49a2dd1c22fe5cf18cd2aba30d45c41
+        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.221.0.0.tar.gz
+        sha256: 5eb5c8a8fa4aa23beb09ac93754338b156eb495e78e206c581ba22b3f93548fc
         dest: src/CudaText
       - type: file
         path: io.github.cudatext.CudaText-Qt.appdata.xml
