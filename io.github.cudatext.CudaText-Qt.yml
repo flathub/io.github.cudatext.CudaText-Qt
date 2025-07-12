@@ -114,16 +114,16 @@ modules:
         sha256: c7c3b1907b2343ea87104be416135e908c894f645a0e36f55f3bd044442c50d0
         dest: src/EncConv
       - type: archive
-        url: https://github.com/Alexey-T/ATBinHex-Lazarus/archive/refs/tags/2024.09.01.tar.gz
-        sha256: 7ad5995429072a56d9f9617e4f623c4bd61826a29342b80612bfb32e0157acaf
+        url: https://github.com/Alexey-T/ATBinHex-Lazarus/archive/refs/tags/2025.06.07.tar.gz
+        sha256: 26db79b920be3b307cd7945554a0bfe57da9a771400facf17b90044cea8a581d
         dest: src/ATBinHex-Lazarus
       - type: archive
-        url: https://github.com/Alexey-T/ATFlatControls/archive/refs/tags/2025.03.10.tar.gz
-        sha256: 54f137b2462e448ef3657d80a28beb24e973a0b7c899c56255609020db7c8eb0
+        url: https://github.com/Alexey-T/ATFlatControls/archive/refs/tags/2025.04.30.tar.gz
+        sha256: 77a285fe636af25e566475330f900a038f309367124fb4663f7b70b8cd459c0a
         dest: src/ATFlatControls
       - type: archive
-        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2025.05.14.tar.gz
-        sha256: 5a0fd32f979fa33df34f3df7538c27a3b3febb4210d7f0749a7303b85d4453fc
+        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2025.06.29.tar.gz
+        sha256: 7264cc1e4e4d34ecf5f6d5d731e8974d53641cc3979c19ba81b0e67caff790ce
         dest: src/ATSynEdit
       - type: archive
         url: https://github.com/Alexey-T/ATSynEdit_Cmp/archive/refs/tags/2025.02.15.tar.gz
@@ -146,8 +146,8 @@ modules:
         sha256: 9f8967e651253fc7027e8bef4115a45e9fb3b1c85536d1bd390da9c4d8a2efe0
         dest: src/Emmet-Pascal
       - type: archive
-        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.224.0.0.tar.gz
-        sha256: 7942862f7de5fd4eb2ade517f3d7fe27f329a88f24b02be45722e440130af480
+        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.225.0.0.tar.gz
+        sha256: fbcfc20e4158fddf7f75fc2afd891db66a470c83dedc65a00dd136a96fa84b91
         dest: src/CudaText
       - type: file
         path: io.github.cudatext.CudaText-Qt.appdata.xml
