@@ -1,6 +1,6 @@
 app-id: io.github.cudatext.CudaText-Qt
 runtime: org.kde.Platform
-runtime-version: '6.8'
+runtime-version: '6.9'
 sdk: org.kde.Sdk
 build-options:
   append-path: /app/lib/sdk/freepascal/bin
