@@ -122,8 +122,8 @@ modules:
         sha256: 8f9c15f462ff2dab9d50a745a51d90fe146eab6e03d20c93ca0c507ca6eb48d8
         dest: src/ATFlatControls
       - type: archive
-        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2026.03.18.tar.gz
-        sha256: 3f2a93e81df37ccae2d2907f8beed753f4e3eba2f0ede9594a03cb405949cc41
+        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2026.04.05.tar.gz
+        sha256: 8e8bb715ac25a98600494d3eca9f992971fa36f18a7b7eb0d9120ab6dbba7048
         dest: src/ATSynEdit
       - type: archive
         url: https://github.com/Alexey-T/ATSynEdit_Cmp/archive/refs/tags/2025.02.15.tar.gz
@@ -146,8 +146,8 @@ modules:
         sha256: 9f8967e651253fc7027e8bef4115a45e9fb3b1c85536d1bd390da9c4d8a2efe0
         dest: src/Emmet-Pascal
       - type: archive
-        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.233.2.0.tar.gz
-        sha256: 902d2ab1beb69aecabdce8ad08970d772415036174d0d673e530298d3d926521
+        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/toolchain-cache.tar.gz
+        sha256: d17e598facf5a430cb28c7f7e1b72448b20e0bb53b8c5bdbb30902ec9c40ec2a
         dest: src/CudaText
       - type: file
         path: io.github.cudatext.CudaText-Qt.appdata.xml
