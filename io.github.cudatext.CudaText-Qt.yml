@@ -146,8 +146,8 @@ modules:
         sha256: 9f8967e651253fc7027e8bef4115a45e9fb3b1c85536d1bd390da9c4d8a2efe0
         dest: src/Emmet-Pascal
       - type: archive
-        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.234.3.0.tar.gz
-        sha256: afd84d98cdcc866626c12ec953ce529532d4e65ca28f6c3fc46f6abdd6f38e73
+        url: https://github.com/Alexey-T/CudaText/archive/refs/tags/1.234.3.1.tar.gz
+        sha256: d301c2441d63119e0213330bc4119849a80725f9d76a62a82d312884e1002d9e
         dest: src/CudaText
       - type: file
         path: io.github.cudatext.CudaText-Qt.appdata.xml
