@@ -122,8 +122,8 @@ modules:
         sha256: 00158211a7852e36241ff3a6fc1a7d54ce55f2be5f03bf586b497830604681c5
         dest: src/ATFlatControls
       - type: archive
-        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2026.05.06.tar.gz
-        sha256: 7d3a0a2247e66dd5f3b2008e5d2ce65b74660ea429ab3a9d2739eb05fc1f2bb5
+        url: https://github.com/Alexey-T/ATSynEdit/archive/refs/tags/2026.05.18.tar.gz
+        sha256: 4482ae781ca76acefc40cea12f9ba70e65c7fc422eaf7172a6cc0efc9aebaf31
         dest: src/ATSynEdit
       - type: archive
         url: https://github.com/Alexey-T/ATSynEdit_Cmp/archive/refs/tags/2025.02.15.tar.gz
