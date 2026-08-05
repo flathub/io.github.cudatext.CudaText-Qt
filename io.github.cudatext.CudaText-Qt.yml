@@ -77,8 +77,8 @@ modules:
   - name: lazarus
     sources:
       - type: archive
-        url: https://gitlab.com/freepascal.org/lazarus/lazarus/-/archive/lazarus_4_8/lazarus-lazarus_4_8.tar.gz
-        sha256: 38f72afae9b9a44d3745eeb025ce9c38050efcd0d27f3f1edebc1f680c529f03
+        url: https://gitlab.com/JordanL2/lazarus/-/archive/main-2026-08-05/lazarus-main-2026-08-05.tar.gz
+        sha256: 83ece5459a404f9124c408fb4d8eb335c1e12d7b0a090807228b9e825980aead
     buildsystem: simple
     build-options:
       append-path: /app/lib/sdk/freepascal/bin
